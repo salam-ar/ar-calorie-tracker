@@ -1,0 +1,6 @@
+__pycache__/
+uploads/
+frames/
+*.pyc
+venv/
+.env
